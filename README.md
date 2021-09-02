@@ -3,4 +3,4 @@ When humans have advanced science and technology They had sent themselves out to
 
 <a href="l3allil2on.itch.io/spacewar" target="_blank">[Download]</a>
 
-<img src="SpaceWarCover.png" height="500" />
+<img src="SpaceWarCover.png" />
